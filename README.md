@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditandcoffee&label=Profile%20views&color=0e75b6&style=flat" alt="aditandcoffee" /> </p>
 
 - ⚡ Fun fact **I love coffee ☕ & hiking ⛰️**
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/qa-engineer-8865769"/>
+<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie-animation/qa-engineer-8865769](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFhcWVvbXg0dHp3dm5sM3Zpb3p2aTN3dGluNnZjc3BvamlpM2YyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
